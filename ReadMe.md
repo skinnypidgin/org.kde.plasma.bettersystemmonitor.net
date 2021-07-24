@@ -8,3 +8,21 @@ Currently, the widget only shows rates in bytes (B/s, KiB/s and MiB/s).
 ![alt](img/network_speed_widget_01.png)
 ![alt](img/network_speed_widget_02.png)
 ![alt](img/network_speed_widget_03.png)
+
+
+---
+
+
+## Version History
+### v1.0
+Notes: Cloned from the original extension that came with the OS Install and KDE Plasma v5.22.3
+### v1.1 (in development)
+For the file named `metadata.desktop`, I am following the instructions found at:
+[https://forum.kde.org/viewtopic.php?f=289&t=151414#p395823](https://forum.kde.org/viewtopic.php?f=289&t=151414#p395823)
+
+For the file named `net.qml`, I am following the instructions available at:
+[https://github.com/vjr/plasma-workspace/commit/ac98538f903be7c11d093323e67fd0314e6b7c95](https://github.com/vjr/plasma-workspace/commit/ac98538f903be7c11d093323e67fd0314e6b7c95)
+
+Once these edits have been implemented, running  
+`plasmawindowed WIDGET_FOLDER_NAME`  
+from the Terminal yields errors.
