@@ -13,7 +13,7 @@ X-Plasma-RootPath=org.kde.plasma.systemmonitor
 
 X-KDE-PluginInfo-Author=Marco Martin
 X-KDE-PluginInfo-Email=mart@kde.org
-X-KDE-PluginInfo-Name=org.kde.plasma.systemmonitor.net
+X-KDE-PluginInfo-Name=org.kde.plasma.bettersystemmonitor.net
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=https://www.kde.org/plasma-desktop
 X-KDE-PluginInfo-License=GPL-2.0+
