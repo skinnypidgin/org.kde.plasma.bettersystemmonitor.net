@@ -20,7 +20,9 @@ Notes: Cloned from the original extension that came with the OS Install and KDE 
 For the file named `metadata.desktop`, I am following the instructions found at:
 [https://forum.kde.org/viewtopic.php?f=289&t=151414#p395823](https://forum.kde.org/viewtopic.php?f=289&t=151414#p395823)
 
-For the file named `net.qml`, I am following the instructions available at:
+For the file named `net.qml`, I am following the instructions available at:  
+[https://forum.kde.org/viewtopic.php?f=304&t=138731#p371513](https://forum.kde.org/viewtopic.php?f=304&t=138731#p371513)  
+and  
 [https://github.com/vjr/plasma-workspace/commit/ac98538f903be7c11d093323e67fd0314e6b7c95](https://github.com/vjr/plasma-workspace/commit/ac98538f903be7c11d093323e67fd0314e6b7c95)
 
 Once these edits have been implemented, running  
